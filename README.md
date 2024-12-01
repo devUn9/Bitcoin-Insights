@@ -24,11 +24,11 @@ DXY (달러 인덱스) - 달러 가치와 비트코인의 역상관 관계 및 �
 WTI (원유 가격) - 원자재 시장의 변동성과 비트코인의 상관성 분석
 
 ### 데이터 수집
-수집 내용 : Daily historical data (BTC, IXIC, XAU, DXY, WTI) 
+수집 내용 : Daily Historical Data (BTC, IXIC, XAU, DXY, WTI) 
 
 수집 범위 : 2013-01-01 ~ 2024.11.29
 
-수집 방법 : Investing 사이트에서 제공한 historical data
+수집 방법 : Investing 사이트에서 제공한 Historical Data
 
 
 ### 데이터 가공 및 시각화
