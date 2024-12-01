@@ -33,7 +33,6 @@ WTI (원유 가격) - 원자재 시장의 변동성과 비트코인의 상관성
 
 ### 데이터 가공 및 시각화
 
-[bitcoin_insight_project.ipynb)
 [데이터 전처리.ipynb](./데이터 전처리.ipynb)
 
 ### 결과 발표
